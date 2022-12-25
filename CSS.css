@@ -1,0 +1,87 @@
+body {
+    color: rgb(220, 53, 16);
+}
+
+.columns {
+    column-count: 3;
+    column-gap: 2.5em;
+    column-rule: 2px solid rgb(0, 0, 0);
+    font-style: oblique;
+    padding: 0 20px;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4.5rem;
+    font-style: oblique;
+}
+
+.spacepic1 {
+    Width: 375px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.spacepic2 {
+    width: 375px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    font-size: 36px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.paragraphs {
+    font-size: medium;
+}
+
+.body {
+    background-color: #fff1ce;
+}
+
+.navbar {
+    background-color: black;
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    justify-content: space-between;
+    display: flex
+}
+
+.navbar img {
+    width: 150px;
+    height: 100px;
+}
+
+.link {
+    margin-right: 25px;
+    font-family: Verdana;
+    opacity: 150%;
+    text-shadow: 2px 2px 4px #f00303;
+    background-image: linear-gradient(to right, rgb(98, 17, 17), red, white);
+}
+
+.spacebetween {
+    padding: 15px;
+}
+
+.rubrik {
+    padding-bottom: 8px;
+}
